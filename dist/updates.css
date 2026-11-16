@@ -1,0 +1,33 @@
+.archive-card[data-rarity="Common"]{--accent:#5a7252;background:#d6dfcb;border-color:#7b926c}
+.archive-card[data-rarity="Uncommon"]{--accent:#3a7a95;background:#bad8e4;border-color:#6697ac}
+.archive-card[data-rarity="Rare"]{--accent:#7752a5;background:#cfc0ec;border-color:#a08ac4}
+.archive-card[data-rarity="Archive Foil"]{--accent:#8d661d;background:linear-gradient(125deg,#e6c577,#f7e8b7 40%,#dfb95c 72%,#f2dda0);border-color:#c6a34d}
+.archive-card .card-top{font-size:7px;gap:6px;line-height:1.5;letter-spacing:.6px}
+.archive-card .card-top>span:last-child{text-align:right;font-weight:700}
+.archive-card .card-role{display:block;font-size:9px;line-height:1.4;font-weight:700;margin:0 0 5px;color:#303e32;min-height:25px}
+.archive-card .card-region{line-height:1.4}
+.archive-card .card-seal{border-color:#66715b80}
+.archive-card.missing{opacity:.78}.archive-card.missing:hover{opacity:1}
+.card-new{position:absolute;right:19px;top:43px;z-index:2;border:1px solid #bdcd9b}
+.card-bottom .rarity-tag{font-weight:700}.card-bottom{font-size:8px}
+.rarity-legend{display:flex;gap:18px;flex-wrap:wrap;margin:-5px 0 22px;color:var(--muted);font-size:10px}
+.rarity-legend span{display:flex;align-items:center;gap:7px}
+.rarity-legend span:before{content:'';width:10px;height:10px;border-radius:2px;background:#d6dfcb}
+.rarity-legend [data-rarity="Uncommon"]:before{background:#bad8e4}
+.rarity-legend [data-rarity="Rare"]:before{background:#cfc0ec}
+.rarity-legend [data-rarity="Archive Foil"]:before{background:linear-gradient(135deg,#e6c577,#f7e8b7,#dfb95c)}
+.pack-art{container-type:inline-size}.pack-title{font-size:min(31px,18cqw);line-height:1.03}
+.pack-art[data-design="communists"] .pack-title{font-size:min(26px,14cqw);letter-spacing:-.3px}
+.pack-art[data-design="communists"] .pack-symbol{font-family:Georgia,'Times New Roman',serif;font-size:55px}
+.pack-art[data-design="art"] .pack-title{font-size:min(24px,16cqw);line-height:1.05}
+.pack-art[data-design="art"] .pack-symbol{margin-top:14px;margin-bottom:12px}
+.pack-symbol svg{width:68%;height:80%;display:block}
+.pack-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.pack-slot h3{line-height:1.5;min-height:23px}
+@media(max-width:1000px){.pack-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.pack-title{font-size:min(26px,18cqw)}.pack-art[data-design="communists"] .pack-symbol{font-size:43px}.pack-slot h3{min-height:39px}.pack-art[data-design="art"] .pack-symbol{margin-top:12px;margin-bottom:10px}.pack-art[data-design="art"] .pack-title{font-size:min(22px,16cqw)}.rarity-legend{gap:12px;font-size:9px}.archive-card .card-top{font-size:6px;letter-spacing:.4px}}
+
+.archive-card[data-rarity="Epic"]{--accent:#a23d89;background:#e6b8dc;border-color:#bc70a6}
+.archive-card[data-rarity="Legendary"]{--accent:#a15415;background:linear-gradient(125deg,#e7af79,#f2cea2 60%,#e3a263);border-color:#c58b48}
+.rarity-legend [data-rarity="Epic"]:before{background:#e6b8dc}.rarity-legend [data-rarity="Legendary"]:before{background:#edbd8b}
+.results-line{gap:15px;flex-wrap:wrap}.results-line #result-count{margin-right:auto}
