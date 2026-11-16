@@ -1,12 +1,12 @@
 # The Political Archive
 
-A free browser card game with 400 historical figures, eight themed packets, portrait cards, and a searchable collection. Every packet costs 100 quiz points and contains five independently drawn cards; duplicates are counted.
+A free browser card game with 400 historical figures, eight themed packets, portrait cards, and a searchable collection. Each browser receives 100 free welcome points once. Every packet costs 100 quiz points and contains five independently drawn cards; duplicates are counted.
 
 ## Earn points
 
 Take a five-question history and packet knowledge test drawn from a 60-question bank. Each correct answer earns 25 points, up to 125 per completed test. Points are awarded once on completion. Unfinished tests resume after refresh, and balances are saved locally. Tests have no timer and can be repeated. Existing card collections migrate without changing IDs; imported collection files do not grant quiz points.
 
-Epic, Legendary, and Archive Foil reveals have distinct animated celebrations. Rare cards receive an illuminated reveal, and all cards turn over on reveal. Reduced-motion preferences disable movement and particle effects.
+Epic and Legendary reveals have animated celebrations. An Archive Foil moves to the center as a sealed card and requires three additional deliberate clicks. Each click increases its scale and shake; its identity appears after the third. Reveal all queues multiple Foils individually. Rare cards receive an illuminated reveal, and all cards turn over on reveal. Reduced-motion preferences disable movement and particle effects.
 
 ## Rarities
 
