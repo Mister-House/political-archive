@@ -3580,5 +3580,431 @@
     "credit": "https://commons.wikimedia.org/wiki/File:Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
     "attribution": "Bain News Service, publisher · Public domain",
     "license": ""
+  },
+  "pa-401": {
+    "src": "portraits/pa-401.jpg",
+    "title": "Giovanni Giuriati",
+    "article": "https://en.wikipedia.org/wiki/Giovanni_Giuriati",
+    "file": "GiovanniGiurati.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:GiovanniGiurati.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-402": {
+    "src": "portraits/pa-402.jpg",
+    "title": "Achille Starace",
+    "article": "https://en.wikipedia.org/wiki/Achille_Starace",
+    "file": "Achille_Starace.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Achille_Starace.jpg",
+    "attribution": "Camera dei Fasci e delle Corporazioni · Public domain",
+    "license": ""
+  },
+  "pa-403": {
+    "src": "portraits/pa-403.jpg",
+    "title": "Alessandro Pavolini",
+    "article": "https://en.wikipedia.org/wiki/Alessandro_Pavolini",
+    "file": "Alessandro_Pavolini_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Alessandro_Pavolini_(cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-404": {
+    "src": "portraits/pa-404.jpg",
+    "title": "Giuseppe Bottai",
+    "article": "https://en.wikipedia.org/wiki/Giuseppe_Bottai",
+    "file": "Bottai_37.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bottai_37.jpg",
+    "attribution": "Ghitta Carell · Public domain",
+    "license": ""
+  },
+  "pa-405": {
+    "src": "portraits/pa-405.jpg",
+    "title": "Michele Bianchi",
+    "article": "https://en.wikipedia.org/wiki/Michele_Bianchi",
+    "file": "Michele_Bianchi_Portrait.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Michele_Bianchi_Portrait.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-406": {
+    "src": "portraits/pa-406.jpg",
+    "title": "Cesare Maria De Vecchi",
+    "article": "https://en.wikipedia.org/wiki/Cesare_Maria_De_Vecchi",
+    "file": "Cesare_Maria_De_Vecchi1.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cesare_Maria_De_Vecchi1.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-407": {
+    "src": "portraits/pa-407.jpg",
+    "title": "Emilio De Bono",
+    "article": "https://en.wikipedia.org/wiki/Emilio_De_Bono",
+    "file": "Emilio_De_Bono.jpg",
+    "credit": "https://en.wikipedia.org/wiki/File:Emilio_De_Bono.jpg"
+  },
+  "pa-408": {
+    "src": "portraits/pa-408.jpg",
+    "title": "Augusto Turati",
+    "article": "https://en.wikipedia.org/wiki/Augusto_Turati",
+    "file": "Augusto_Turati.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Augusto_Turati.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-409": {
+    "src": "portraits/pa-409.jpg",
+    "title": "Renato Ricci",
+    "article": "https://en.wikipedia.org/wiki/Renato_Ricci",
+    "file": "Presidium_of_the_European_Youth_Union_Renato_Ricci_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Presidium_of_the_European_Youth_Union_Renato_Ricci_(cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-410": {
+    "src": "portraits/pa-410.jpg",
+    "title": "Rodolfo Graziani",
+    "article": "https://en.wikipedia.org/wiki/Rodolfo_Graziani",
+    "file": "Marshal_Rodolfo_Graziani_potrait.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Marshal_Rodolfo_Graziani_potrait.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-411": {
+    "src": "portraits/pa-411.jpg",
+    "title": "Arturo Bocchini",
+    "article": "https://en.wikipedia.org/wiki/Arturo_Bocchini",
+    "file": "Arturo_Bocchini_2.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Arturo_Bocchini_2.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-412": {
+    "src": "portraits/pa-412.jpg",
+    "title": "Joachim von Ribbentrop",
+    "article": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop",
+    "file": "Bundesarchiv_Bild_183-H04810,_Joachim_von_Ribbentrop_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-H04810,_Joachim_von_Ribbentrop_(cropped).jpg",
+    "attribution": "Unknown authorUnknown author · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-413": {
+    "src": "portraits/pa-413.jpg",
+    "title": "Hermann Göring",
+    "article": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring",
+    "file": "Hermann_Goering_-_Nuremberg_2_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hermann_Goering_-_Nuremberg_2_(cropped).jpg",
+    "attribution": "Charles Alexander, Office of the United States Chief of Counsel · Public domain",
+    "license": ""
+  },
+  "pa-414": {
+    "src": "portraits/pa-414.jpg",
+    "title": "Joseph Goebbels",
+    "article": "https://en.wikipedia.org/wiki/Joseph_Goebbels",
+    "file": "Bundesarchiv_Bild_146-1968-101-20A,_Joseph_Goebbels_(cropped)(b).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1968-101-20A,_Joseph_Goebbels_(cropped)(b).jpg",
+    "attribution": "Heinrich Hoffmann · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-415": {
+    "src": "portraits/pa-415.jpg",
+    "title": "Rudolf Hess",
+    "article": "https://en.wikipedia.org/wiki/Rudolf_Hess",
+    "file": "Bundesarchiv_Bild_183-1987-0313-507,_Rudolf_Hess_(cropped)(b)(2).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1987-0313-507,_Rudolf_Hess_(cropped)(b)(2).jpg",
+    "attribution": "Unknown authorUnknown author · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-416": {
+    "src": "portraits/pa-416.jpg",
+    "title": "Martin Bormann",
+    "article": "https://en.wikipedia.org/wiki/Martin_Bormann",
+    "file": "Bundesarchiv_Bild_183-R14128A,_Martin_Bormann_(3x4_cropped)_(2).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R14128A,_Martin_Bormann_(3x4_cropped)_(2).jpg",
+    "attribution": "UnknownUnknown · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-417": {
+    "src": "portraits/pa-417.jpg",
+    "title": "Alfred Rosenberg",
+    "article": "https://en.wikipedia.org/wiki/Alfred_Rosenberg",
+    "file": "Bundesarchiv_Bild_146-1969-067-10,_Alfred_Rosenberg.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1969-067-10,_Alfred_Rosenberg.jpg",
+    "attribution": "Unknown authorUnknown author · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-418": {
+    "src": "portraits/pa-418.jpg",
+    "title": "Ernst Röhm",
+    "article": "https://en.wikipedia.org/wiki/Ernst_R%C3%B6hm",
+    "file": "Ernst_Röhm_(1887-1934)_München,_Germany_(Weimar_Republic)_1924_Hauptmann_Bund_Freikorps_Epp_uniform_Iron_cross_etc_242-HF-0377_001_Unrestricted_No_known_copyright_(cropped)(2).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Ernst_R%C3%B6hm_(1887-1934)_M%C3%BCnchen,_Germany_(Weimar_Republic)_1924_Hauptmann_Bund_Freikorps_Epp_uniform_Iron_cross_etc_242-HF-0377_001_Unrestricted_No_known_copyright_(cropped)(2).jpg",
+    "attribution": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing. · Public domain",
+    "license": ""
+  },
+  "pa-419": {
+    "src": "portraits/pa-419.jpg",
+    "title": "Gregor Strasser",
+    "article": "https://en.wikipedia.org/wiki/Gregor_Strasser",
+    "file": "Bundesarchiv_Bild_119-1721,_Gregor_Strasser_crop.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_119-1721,_Gregor_Strasser_crop.jpg",
+    "attribution": "UnknownUnknown · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-420": {
+    "src": "portraits/pa-420.jpg",
+    "title": "Arthur Seyss-Inquart",
+    "article": "https://en.wikipedia.org/wiki/Arthur_Seyss-Inquart",
+    "file": "Arthur_Seyss-Inquart_(3x4_cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Arthur_Seyss-Inquart_(3x4_cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-421": {
+    "src": "portraits/pa-421.jpg",
+    "title": "Léon Degrelle",
+    "article": "https://en.wikipedia.org/wiki/L%C3%A9on_Degrelle",
+    "file": "Léon_Degrelle_portrait.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Degrelle_portrait.jpg",
+    "attribution": "Alber · Public domain",
+    "license": ""
+  },
+  "pa-422": {
+    "src": "portraits/pa-422.jpg",
+    "title": "Anton Mussert",
+    "article": "https://en.wikipedia.org/wiki/Anton_Mussert",
+    "file": "Anton_Mussert.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Anton_Mussert.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-423": {
+    "src": "portraits/pa-423.jpg",
+    "title": "Vidkun Quisling",
+    "article": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+    "file": "Portrett_av_Vidkun_Quisling_i_sivile_klær,_ukjent_datering_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Portrett_av_Vidkun_Quisling_i_sivile_kl%C3%A6r,_ukjent_datering_(cropped).jpg",
+    "attribution": "Riksarkivet (National Archives of Norway) from Oslo, Norway · No restrictions",
+    "license": "https://www.flickr.com/commons/usage/"
+  },
+  "pa-424": {
+    "src": "portraits/pa-424.jpg",
+    "title": "Ferenc Szálasi",
+    "article": "https://en.wikipedia.org/wiki/Ferenc_Sz%C3%A1lasi",
+    "file": "Ferenc_Szálasi.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Ferenc_Sz%C3%A1lasi.jpg",
+    "attribution": "AnonymousUnknown author / Zespół: Wydawnictwo Prasowe Kraków-Warszawa · Public domain",
+    "license": ""
+  },
+  "pa-425": {
+    "src": "portraits/pa-425.jpg",
+    "title": "Socrates",
+    "article": "https://en.wikipedia.org/wiki/Socrates",
+    "file": "Socrates_Louvre.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+    "attribution": "Copy of Lysippos (?) · Public domain",
+    "license": ""
+  },
+  "pa-426": {
+    "src": "portraits/pa-426.jpg",
+    "title": "Epicurus",
+    "article": "https://en.wikipedia.org/wiki/Epicurus",
+    "file": "Epikouros_BM_1843.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg",
+    "attribution": "Unknown artistUnknown artist · Public domain",
+    "license": ""
+  },
+  "pa-427": {
+    "src": "portraits/pa-427.jpg",
+    "title": "Diogenes",
+    "article": "https://en.wikipedia.org/wiki/Diogenes",
+    "file": "Diogenes_Mosaic_Römisch-Germanisches_Museum.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-428": {
+    "src": "portraits/pa-428.jpg",
+    "title": "Seneca the Younger",
+    "article": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "file": "Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
+    "attribution": "Calidius · CC BY-SA 3.0",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "pa-429": {
+    "src": "portraits/pa-429.jpg",
+    "title": "Marcus Aurelius",
+    "article": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "file": "MSR-ra-61-b-1-DM.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:MSR-ra-61-b-1-DM.jpg",
+    "attribution": "Daniel Martin · CC BY-SA 4.0",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "pa-430": {
+    "src": "portraits/pa-430.jpg",
+    "title": "Cicero",
+    "article": "https://en.wikipedia.org/wiki/Cicero",
+    "file": "Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+    "attribution": "José Luiz · CC BY-SA 4.0",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "pa-431": {
+    "src": "portraits/pa-431.jpg",
+    "title": "Augustine of Hippo",
+    "article": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "file": "Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "attribution": "Philippe de Champaigne · Public domain",
+    "license": ""
+  },
+  "pa-432": {
+    "src": "portraits/pa-432.jpg",
+    "title": "Averroes",
+    "article": "https://en.wikipedia.org/wiki/Averroes",
+    "file": "Andrea_di_bonaiuto,_apoteosi_di_san_tommaso_d'aquino,_11_averroè.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Andrea_di_bonaiuto,_apoteosi_di_san_tommaso_d%27aquino,_11_averro%C3%A8.jpg",
+    "attribution": "Sailko · CC BY 3.0",
+    "license": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "pa-433": {
+    "src": "portraits/pa-433.jpg",
+    "title": "Avicenna",
+    "article": "https://en.wikipedia.org/wiki/Avicenna",
+    "file": "Avicenna_Bust,_left_profile_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg",
+    "attribution": "National Library of Medicine · No restrictions",
+    "license": "https://www.flickr.com/commons/usage/"
+  },
+  "pa-434": {
+    "src": "portraits/pa-434.png",
+    "title": "Al-Ghazali",
+    "article": "https://en.wikipedia.org/wiki/Al-Ghazali",
+    "file": "Al-Ghazālī,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png",
+    "credit": "https://commons.wikimedia.org/wiki/File:Al-Ghaz%C4%81l%C4%AB,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-435": {
+    "src": "portraits/pa-435.jpg",
+    "title": "Baruch Spinoza",
+    "article": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+    "file": "Spinoza.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
+    "attribution": "anonymous · Public domain",
+    "license": ""
+  },
+  "pa-436": {
+    "src": "portraits/pa-436.jpg",
+    "title": "René Descartes",
+    "article": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "file": "Frans_Hals_-_Portret_van_René_Descartes.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+    "attribution": "After Frans Hals · Public domain",
+    "license": ""
+  },
+  "pa-437": {
+    "src": "portraits/pa-437.jpg",
+    "title": "David Hume",
+    "article": "https://en.wikipedia.org/wiki/David_Hume",
+    "file": "David_Hume_Ramsay.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg",
+    "attribution": "Allan Ramsay · Public domain",
+    "license": ""
+  },
+  "pa-438": {
+    "src": "portraits/pa-438.jpg",
+    "title": "Gottfried Wilhelm Leibniz",
+    "article": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "file": "Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg",
+    "attribution": "Christoph Bernhard Francke · Public domain",
+    "license": ""
+  },
+  "pa-439": {
+    "src": "portraits/pa-439.jpg",
+    "title": "Francis Bacon",
+    "article": "https://en.wikipedia.org/wiki/Francis_Bacon",
+    "file": "Somer_Francis_Bacon.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg",
+    "attribution": "Paul van Somer I / Formerly attributed to Frans Pourbus the Younger · Public domain",
+    "license": ""
+  },
+  "pa-440": {
+    "src": "portraits/pa-440.jpg",
+    "title": "Mary Midgley",
+    "article": "https://en.wikipedia.org/wiki/Mary_Midgley",
+    "file": "Mary_Midgley.JPG",
+    "credit": "https://commons.wikimedia.org/wiki/File:Mary_Midgley.JPG",
+    "attribution": "MPMWikihelper · Public domain",
+    "license": ""
+  },
+  "pa-441": {
+    "src": "portraits/pa-441.jpg",
+    "title": "Philippa Foot",
+    "article": "https://en.wikipedia.org/wiki/Philippa_Foot",
+    "file": "PhilippaFoot1939.jpg",
+    "credit": "https://en.wikipedia.org/wiki/File:PhilippaFoot1939.jpg"
+  },
+  "pa-442": {
+    "src": "portraits/pa-442.jpg",
+    "title": "Martha Nussbaum",
+    "article": "https://en.wikipedia.org/wiki/Martha_Nussbaum",
+    "file": "Martha_Nussbaum_2010_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Martha_Nussbaum_2010_(cropped).jpg",
+    "attribution": "Sally Ryan, photographer, www.sallyryanphoto.com · CC BY-SA 3.0",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "pa-443": {
+    "src": "portraits/pa-443.jpg",
+    "title": "G. E. M. Anscombe",
+    "article": "https://en.wikipedia.org/wiki/G._E._M._Anscombe",
+    "file": "Gertrude_Elizabeth_Margaret_Anscombe.jpg",
+    "credit": "https://en.wikipedia.org/wiki/File:Gertrude_Elizabeth_Margaret_Anscombe.jpg"
+  },
+  "pa-444": {
+    "src": "portraits/pa-444.jpg",
+    "title": "Alasdair MacIntyre",
+    "article": "https://en.wikipedia.org/wiki/Alasdair_MacIntyre",
+    "file": "Alasdair_MacIntyre.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Alasdair_MacIntyre.jpg",
+    "attribution": "Sean O'Connor · CC BY 2.0",
+    "license": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "pa-445": {
+    "src": "portraits/pa-445.jpg",
+    "title": "Peter Singer",
+    "article": "https://en.wikipedia.org/wiki/Peter_Singer",
+    "file": "Peter_Singer_2017_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Peter_Singer_2017_(cropped).jpg",
+    "attribution": "Ula Zarosa · CC BY 2.0",
+    "license": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "pa-446": {
+    "src": "portraits/pa-446.jpg",
+    "title": "Michael Oakeshott",
+    "article": "https://en.wikipedia.org/wiki/Michael_Oakeshott",
+    "file": "Michael_Oakeshott.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Michael_Oakeshott.jpg",
+    "attribution": "No restrictions",
+    "license": "https://www.flickr.com/commons/usage/"
+  },
+  "pa-447": {
+    "src": "portraits/pa-447.jpg",
+    "title": "Michael Walzer",
+    "article": "https://en.wikipedia.org/wiki/Michael_Walzer",
+    "file": "MichaelWalzer-USNA-Lecture.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:MichaelWalzer-USNA-Lecture.jpg",
+    "attribution": "Public domain",
+    "license": ""
+  },
+  "pa-448": {
+    "src": "portraits/pa-448.jpg",
+    "title": "Leo Strauss",
+    "article": "https://en.wikipedia.org/wiki/Leo_Strauss",
+    "file": "Leo_Strauss_USA_1939.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Leo_Strauss_USA_1939.jpg",
+    "attribution": "Monozigote · CC BY-SA 4.0",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 }

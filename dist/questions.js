@@ -1,4 +1,4 @@
-// History and packet-related questions only. Versioned IDs invalidate older off-topic tests.
+// Approachable history, politics, and packet questions. The first option is correct.
 const QUESTION_ROWS = [
   [
     "History",
@@ -35,15 +35,6 @@ const QUESTION_ROWS = [
     "1991",
     "1961",
     "The Berlin Wall opened in November 1989."
-  ],
-  [
-    "History",
-    "Which document was sealed by King John in 1215?",
-    "Magna Carta",
-    "Bill of Rights",
-    "Treaty of Versailles",
-    "Declaration of Independence",
-    "Magna Carta was sealed in 1215."
   ],
   [
     "History",
@@ -146,48 +137,12 @@ const QUESTION_ROWS = [
   ],
   [
     "The Fascists",
-    "Who founded Falange Española?",
-    "José Antonio Primo de Rivera",
-    "Galeazzo Ciano",
-    "Dino Grandi",
-    "Italo Balbo",
-    "José Antonio Primo de Rivera founded the Spanish fascist party."
-  ],
-  [
-    "The Fascists",
-    "Who founded the Iron Guard movement?",
-    "Corneliu Zelea Codreanu",
-    "Oswald Mosley",
-    "Ante Pavelić",
-    "Ion Antonescu",
-    "Codreanu founded the fascist and antisemitic Iron Guard movement."
-  ],
-  [
-    "The Fascists",
     "Which political movement was associated with Benito Mussolini?",
     "Fascism",
     "Fabian socialism",
     "Mutualism",
     "Classical liberalism",
     "Mussolini led the Italian Fascist movement and a dictatorship."
-  ],
-  [
-    "The Fascists",
-    "Which philosopher was closely associated with Italian fascism?",
-    "Giovanni Gentile",
-    "John Rawls",
-    "Peter Kropotkin",
-    "Mary Wollstonecraft",
-    "Gentile was an idealist philosopher closely associated with Italian fascism."
-  ],
-  [
-    "Soviet history",
-    "Which organization did Yuri Andropov lead before becoming Soviet leader?",
-    "KGB",
-    "League of Nations",
-    "NATO",
-    "European Commission",
-    "Andropov served as chairman of the KGB."
   ],
   [
     "Soviet history",
@@ -200,39 +155,12 @@ const QUESTION_ROWS = [
   ],
   [
     "Soviet history",
-    "Nadezhda Krupskaya is particularly associated with which field?",
-    "Education and literacy",
-    "Spaceflight engineering",
-    "Cubist painting",
-    "Monetarist economics",
-    "Krupskaya advocated education and literacy."
-  ],
-  [
-    "Soviet history",
-    "Which Soviet official served as education commissar?",
-    "Anatoly Lunacharsky",
-    "Maxim Litvinov",
-    "Georgy Zhukov",
-    "Vyacheslav Molotov",
-    "Lunacharsky served as education commissar and wrote on culture."
-  ],
-  [
-    "Soviet history",
     "Which Soviet leader is associated with de-Stalinization?",
     "Nikita Khrushchev",
     "Joseph Stalin",
     "Vladimir Lenin",
     "Mikhail Kalinin",
     "Khrushchev’s leadership is associated with de-Stalinization."
-  ],
-  [
-    "Soviet history",
-    "Who founded the Cheka?",
-    "Felix Dzerzhinsky",
-    "Yakov Sverdlov",
-    "Mikhail Frunze",
-    "Inessa Armand",
-    "Dzerzhinsky founded the Cheka, an organization associated with political repression."
   ],
   [
     "Soviet history",
@@ -244,15 +172,6 @@ const QUESTION_ROWS = [
     "Zhukov was a prominent Soviet marshal in World War II."
   ],
   [
-    "Soviet history",
-    "Which Soviet premier is associated with economic reform proposals?",
-    "Alexei Kosygin",
-    "Sergei Kirov",
-    "Lev Kamenev",
-    "Yakov Sverdlov",
-    "Kosygin is associated with Soviet economic reform proposals."
-  ],
-  [
     "The Communists",
     "Who co-wrote The Communist Manifesto with Karl Marx?",
     "Friedrich Engels",
@@ -260,33 +179,6 @@ const QUESTION_ROWS = [
     "Rosa Luxemburg",
     "Leon Trotsky",
     "Marx and Engels wrote The Communist Manifesto."
-  ],
-  [
-    "The Communists",
-    "Which thinker developed the concept of cultural hegemony?",
-    "Antonio Gramsci",
-    "Milton Friedman",
-    "Thomas Hobbes",
-    "Vilfredo Pareto",
-    "Cultural hegemony is a central concept associated with Gramsci."
-  ],
-  [
-    "The Communists",
-    "Which theorist is associated with permanent revolution?",
-    "Leon Trotsky",
-    "Eduard Bernstein",
-    "Adam Smith",
-    "Carl Schmitt",
-    "Trotsky developed a theory of permanent revolution."
-  ],
-  [
-    "The Communists",
-    "Which figure was a long-serving leader of the Italian Communist Party?",
-    "Palmiro Togliatti",
-    "Giovanni Gentile",
-    "Roberto Farinacci",
-    "Ugo Spirito",
-    "Togliatti led the Italian Communist Party for many years."
   ],
   [
     "The idea makers",
@@ -308,57 +200,12 @@ const QUESTION_ROWS = [
   ],
   [
     "The idea makers",
-    "Who wrote Leviathan?",
-    "Thomas Hobbes",
-    "John Stuart Mill",
-    "Karl Popper",
-    "Hannah Arendt",
-    "Hobbes wrote Leviathan, a work on sovereignty and political order."
-  ],
-  [
-    "The idea makers",
     "Which thinker wrote The Prince?",
     "Niccolò Machiavelli",
     "John Rawls",
     "Montesquieu",
     "Jean Bodin",
     "The Prince is Machiavelli’s work on political power and statecraft."
-  ],
-  [
-    "The idea makers",
-    "Which thinker is associated with revolutionary syndicalism and political myth?",
-    "Georges Sorel",
-    "John Locke",
-    "Robert Nozick",
-    "Thomas Paine",
-    "Sorel wrote about revolutionary syndicalism and political myth."
-  ],
-  [
-    "The idea makers",
-    "Which philosopher in the archive theorized corporatism?",
-    "Ugo Spirito",
-    "Mary Astell",
-    "Peter Kropotkin",
-    "Isaiah Berlin",
-    "Spirito was an idealist philosopher and theorist of corporatism."
-  ],
-  [
-    "The idea makers",
-    "Who wrote A Theory of Justice?",
-    "John Rawls",
-    "Friedrich Nietzsche",
-    "Mikhail Bakunin",
-    "Georg Lukács",
-    "Rawls wrote A Theory of Justice."
-  ],
-  [
-    "The idea makers",
-    "Who wrote The Origins of Totalitarianism?",
-    "Hannah Arendt",
-    "Simone Weil",
-    "Nancy Fraser",
-    "Judith Butler",
-    "Arendt examined totalitarianism in this book."
   ],
   [
     "Economic Geniuses",
@@ -368,69 +215,6 @@ const QUESTION_ROWS = [
     "John Maynard Keynes",
     "Milton Friedman",
     "Smith published The Wealth of Nations in 1776."
-  ],
-  [
-    "Economic Geniuses",
-    "Which economist is associated with comparative advantage?",
-    "David Ricardo",
-    "Thorstein Veblen",
-    "John Kenneth Galbraith",
-    "Irving Fisher",
-    "Ricardo is associated with the theory of comparative advantage."
-  ],
-  [
-    "Economic Geniuses",
-    "Which economist is associated with monetarism?",
-    "Milton Friedman",
-    "Karl Polanyi",
-    "Joan Robinson",
-    "Henry George",
-    "Friedman is a major figure associated with monetarism."
-  ],
-  [
-    "Economic Geniuses",
-    "Which economist’s work shaped demand-management policy?",
-    "John Maynard Keynes",
-    "Ludwig von Mises",
-    "Thomas Robert Malthus",
-    "Vilfredo Pareto",
-    "Keynes’s work strongly influenced demand-management policy."
-  ],
-  [
-    "Economic Geniuses",
-    "Which economist is associated with creative destruction?",
-    "Joseph Schumpeter",
-    "Elinor Ostrom",
-    "Paul Samuelson",
-    "Alfred Marshall",
-    "Creative destruction is associated with Schumpeter’s analysis of capitalism."
-  ],
-  [
-    "Economic Geniuses",
-    "Who studied governance of common resources?",
-    "Elinor Ostrom",
-    "Irving Fisher",
-    "Thomas Robert Malthus",
-    "David Ricardo",
-    "Ostrom studied how communities govern common resources."
-  ],
-  [
-    "Economic Geniuses",
-    "Which thinker is associated with land value taxation?",
-    "Henry George",
-    "Karl Kautsky",
-    "Friedrich Engels",
-    "Max Weber",
-    "Henry George argued for land value taxation."
-  ],
-  [
-    "Economic Geniuses",
-    "Which economist is known for work on information asymmetry?",
-    "Joseph Stiglitz",
-    "Alfred Marshall",
-    "Adam Smith",
-    "David Ricardo",
-    "Stiglitz contributed to the economics of information asymmetry."
   ],
   [
     "Art, mind & soul",
@@ -461,15 +245,6 @@ const QUESTION_ROWS = [
   ],
   [
     "Art, mind & soul",
-    "Which sculptor created The Thinker?",
-    "Auguste Rodin",
-    "Michelangelo",
-    "Marcel Duchamp",
-    "Georges Braque",
-    "The Thinker is a sculpture by Rodin."
-  ],
-  [
-    "Art, mind & soul",
     "Which artist painted The Two Fridas?",
     "Frida Kahlo",
     "Käthe Kollwitz",
@@ -496,52 +271,277 @@ const QUESTION_ROWS = [
     "Kafka’s novella begins with Gregor Samsa’s transformation."
   ],
   [
-    "Art, mind & soul",
-    "Which filmmaker directed Battleship Potemkin?",
-    "Sergei Eisenstein",
-    "Dziga Vertov",
-    "Bertolt Brecht",
-    "Alexander Rodchenko",
-    "Eisenstein directed Battleship Potemkin and theorized montage."
+    "History",
+    "In which year did World War I begin?",
+    "1914",
+    "1814",
+    "1939",
+    "1945",
+    "World War I began in 1914."
   ],
   [
-    "Art, mind & soul",
-    "Which artist is associated with Suprematism and Black Square?",
-    "Kazimir Malevich",
-    "Claude Monet",
-    "Caravaggio",
-    "Johannes Vermeer",
-    "Malevich developed Suprematism and painted Black Square."
+    "History",
+    "In which year did World War II begin in Europe?",
+    "1939",
+    "1914",
+    "1945",
+    "1961",
+    "World War II began in Europe in 1939."
   ],
   [
-    "Art, mind & soul",
-    "Who composed Peter and the Wolf?",
-    "Sergei Prokofiev",
-    "Dmitri Shostakovich",
-    "Ludwig van Beethoven",
-    "Frédéric Chopin",
-    "Prokofiev composed Peter and the Wolf."
+    "History",
+    "In which year was the U.S. Declaration of Independence adopted?",
+    "1776",
+    "1492",
+    "1917",
+    "1945",
+    "The Declaration of Independence was adopted in 1776."
   ],
   [
-    "Art, mind & soul",
-    "Which filmmaker made Man with a Movie Camera?",
-    "Dziga Vertov",
-    "Sergei Eisenstein",
-    "Vladimir Mayakovsky",
-    "Kazimir Malevich",
-    "Man with a Movie Camera is a documentary film by Vertov."
+    "History",
+    "Which two superpowers were the main rivals in the Cold War?",
+    "United States and Soviet Union",
+    "France and Spain",
+    "Italy and Greece",
+    "Canada and Australia",
+    "The United States and Soviet Union were the Cold War’s main superpowers."
   ],
   [
-    "Art, mind & soul",
-    "Which artist is associated with Constructivist photography and design?",
-    "Alexander Rodchenko",
-    "Sandro Botticelli",
-    "Pierre-Auguste Renoir",
-    "Albrecht Dürer",
-    "Rodchenko worked across Constructivist art, design, and photography."
+    "History",
+    "In which year did the Soviet Union dissolve?",
+    "1991",
+    "1917",
+    "1945",
+    "1968",
+    "The Soviet Union dissolved in 1991."
+  ],
+  [
+    "History",
+    "Which leader is associated with the Bolshevik Revolution of 1917?",
+    "Vladimir Lenin",
+    "Winston Churchill",
+    "Napoleon Bonaparte",
+    "Ronald Reagan",
+    "Lenin led the Bolsheviks during the 1917 revolution."
+  ],
+  [
+    "History",
+    "Which leader proclaimed the People’s Republic of China in 1949?",
+    "Mao Zedong",
+    "Mahatma Gandhi",
+    "Joseph Stalin",
+    "Charles de Gaulle",
+    "Mao proclaimed the People’s Republic of China in 1949."
+  ],
+  [
+    "History",
+    "Which party did Adolf Hitler lead?",
+    "Nazi Party",
+    "British Labour Party",
+    "Indian National Congress",
+    "African National Congress",
+    "Hitler led the Nazi Party and established a dictatorship."
+  ],
+  [
+    "History",
+    "Which leader was a French emperor?",
+    "Napoleon Bonaparte",
+    "Abraham Lincoln",
+    "John Locke",
+    "Nelson Mandela",
+    "Napoleon became Emperor of the French."
+  ],
+  [
+    "History",
+    "Which conflict took place between the Union and Confederacy?",
+    "American Civil War",
+    "Cold War",
+    "Crimean War",
+    "Spanish Civil War",
+    "The Union and Confederacy fought the American Civil War."
+  ],
+  [
+    "History",
+    "What was apartheid?",
+    "A system of racial segregation",
+    "A form of music",
+    "A scientific theory",
+    "A trade currency",
+    "Apartheid was a system of institutionalized racial segregation."
+  ],
+  [
+    "History",
+    "Which leader is closely associated with nonviolent resistance?",
+    "Mahatma Gandhi",
+    "Benito Mussolini",
+    "Joseph Stalin",
+    "Adolf Hitler",
+    "Gandhi made nonviolent civil resistance central to his political campaigns."
+  ],
+  [
+    "Politics",
+    "What does the right to vote allow a person to do?",
+    "Take part in elections",
+    "Appoint every public official directly",
+    "Automatically become head of state",
+    "Ignore all laws",
+    "Voting allows eligible people to take part in elections."
+  ],
+  [
+    "Politics",
+    "What does a constitution set out?",
+    "The basic rules of government",
+    "A political party’s election manifesto",
+    "A government’s daily appointments",
+    "A company’s business plan",
+    "A constitution establishes fundamental rules and institutions of government."
+  ],
+  [
+    "Politics",
+    "What is a parliament primarily responsible for?",
+    "Making laws",
+    "Judging criminal trials",
+    "Privately owning all newspapers",
+    "Running every local election campaign",
+    "Parliaments debate and pass laws."
+  ],
+  [
+    "Politics",
+    "Which form of government usually has a king or queen?",
+    "Monarchy",
+    "Republic",
+    "Direct democracy",
+    "Military junta",
+    "A monarchy has a monarch, such as a king or queen, as head of state."
+  ],
+  [
+    "Politics",
+    "What is censorship?",
+    "Restricting expression or access to information",
+    "Counting election votes",
+    "Publishing government budgets",
+    "Holding an open public debate",
+    "Censorship restricts expression or access to information."
+  ],
+  [
+    "Politics",
+    "What is a political opposition’s role?",
+    "Challenge and scrutinize the government",
+    "Automatically support every policy",
+    "Replace all courts",
+    "Ban all rival parties",
+    "Political opposition scrutinizes the government and offers alternatives."
+  ],
+  [
+    "Politics",
+    "What is the purpose of an election?",
+    "Choose representatives or decide public questions",
+    "Pass power down through a royal family",
+    "Appoint a monarch for life",
+    "Give every decision to the military",
+    "Elections allow eligible voters to make political choices."
+  ],
+  [
+    "Politics",
+    "What does separation of powers divide?",
+    "Government authority among different branches",
+    "Voters into political parties",
+    "A country into time zones",
+    "Government workers by age",
+    "Separation of powers divides authority among branches of government."
+  ],
+  [
+    "Politics",
+    "What does a civil rights movement seek?",
+    "Equal rights and protection under the law",
+    "Different legal rights for each race",
+    "Permanent rule by one family",
+    "An end to all elections",
+    "Civil rights movements seek equal rights and legal protection."
+  ],
+  [
+    "Politics",
+    "What is a dictatorship usually characterized by?",
+    "Concentrated power with limited political opposition",
+    "Regular open competition for power",
+    "An independent opposition controlling government",
+    "Power always changing hands by inheritance",
+    "Dictatorships concentrate power and restrict political opposition."
+  ],
+  [
+    "The Thinker",
+    "Which figure was a philosopher rather than a head of government?",
+    "Socrates",
+    "Winston Churchill",
+    "Franklin D. Roosevelt",
+    "Otto von Bismarck",
+    "Socrates is known for philosophical questioning about knowledge and ethics."
+  ],
+  [
+    "The Thinker",
+    "Which Roman emperor also wrote the Meditations?",
+    "Marcus Aurelius",
+    "Napoleon Bonaparte",
+    "Vladimir Lenin",
+    "George Washington",
+    "Marcus Aurelius was a Roman emperor and Stoic philosopher."
+  ],
+  [
+    "The Thinker",
+    "Which thinker is associated with “I think, therefore I am”?",
+    "René Descartes",
+    "Karl Marx",
+    "Adam Smith",
+    "Georges Sorel",
+    "Descartes is associated with this statement about thought and existence."
+  ],
+  [
+    "The Thinker",
+    "Which thinker is famous for criticizing capitalism?",
+    "Karl Marx",
+    "John Locke",
+    "Thomas Hobbes",
+    "Niccolò Machiavelli",
+    "Marx’s writings include an influential critique of capitalism."
+  ],
+  [
+    "Economic Geniuses",
+    "What is inflation?",
+    "A general rise in prices",
+    "A rise in the voting age",
+    "A government changing its constitution",
+    "A reduction in the number of elections",
+    "Inflation means a sustained rise in the general price level."
+  ],
+  [
+    "Economic Geniuses",
+    "What do governments commonly use taxes to help fund?",
+    "Public services",
+    "Political beliefs themselves",
+    "Historical events that already happened",
+    "The personal votes of each citizen",
+    "Taxes help fund public services and government activity."
+  ],
+  [
+    "Economic Geniuses",
+    "Which figure was an economist?",
+    "John Maynard Keynes",
+    "Pablo Picasso",
+    "Michelangelo",
+    "Frida Kahlo",
+    "Keynes was an economist whose ideas influenced public economic policy."
+  ],
+  [
+    "History",
+    "Who was a British prime minister during most of World War II?",
+    "Winston Churchill",
+    "George Washington",
+    "Mao Zedong",
+    "Simón Bolívar",
+    "Churchill led Britain’s government during most of World War II."
   ]
 ];
-const QUESTIONS=QUESTION_ROWS.map((r,i)=>({id:'history-v2-'+(i+1),category:r[0],text:r[1],answer:r[2],options:r.slice(2,6),explanation:r[6]}));
+const QUESTIONS=QUESTION_ROWS.map((r,i)=>({id:'easy-history-v3-'+(i+1),category:r[0],text:r[1],answer:r[2],options:r.slice(2,6),explanation:r[6]}));
 const PACK_COST=100,QUIZ_LENGTH=5,POINTS_PER_CORRECT=25;
 
 function validateQuiz(q){return !!q&&Array.isArray(q.ids)&&q.ids.length===QUIZ_LENGTH&&new Set(q.ids).size===QUIZ_LENGTH&&q.ids.every(id=>QUESTIONS.some(x=>x.id===id))&&Array.isArray(q.answers)&&q.answers.length<=QUIZ_LENGTH&&q.answers.every((a,i)=>QUESTIONS.find(x=>x.id===q.ids[i]).options.includes(a))&&typeof q.token==='string'&&q.token.length<80&&typeof q.review==='boolean'&&typeof q.awarded==='boolean'&&(!q.review||q.answers.length>0)&&(q.answers.length<QUIZ_LENGTH||q.review||q.awarded)&&(!q.awarded||q.answers.length===QUIZ_LENGTH);}
