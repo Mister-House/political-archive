@@ -4,7 +4,7 @@ A free browser card game with 400 historical figures, eight themed packets, port
 
 ## Earn points
 
-Take a five-question general knowledge test drawn from a 60-question bank. Each correct answer earns 25 points, up to 125 per completed test. Points are awarded once on completion. Unfinished tests resume after refresh, and balances are saved locally. Tests have no timer and can be repeated. Existing card collections migrate without changing IDs; imported collection files do not grant quiz points.
+Take a five-question history and packet knowledge test drawn from a 60-question bank. Each correct answer earns 25 points, up to 125 per completed test. Points are awarded once on completion. Unfinished tests resume after refresh, and balances are saved locally. Tests have no timer and can be repeated. Existing card collections migrate without changing IDs; imported collection files do not grant quiz points.
 
 Epic, Legendary, and Archive Foil reveals have distinct animated celebrations. Rare cards receive an illuminated reveal, and all cards turn over on reveal. Reduced-motion preferences disable movement and particle effects.
 

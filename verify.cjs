@@ -5,6 +5,8 @@ get('#ownership').value='all';get('#sort').value='number';let saved=null;
 const context={document:{createElement:element,querySelector:get,querySelectorAll:()=>[],addEventListener(){}},localStorage:{getItem:()=>saved,setItem:(k,v)=>saved=v},crypto:require('node:crypto').webcrypto,history:{replaceState(){}},window:{scrollTo(){},addEventListener(){},matchMedia(){return {matches:false}}},location:{hash:''},setTimeout(){return 1},clearTimeout(){},console};vm.createContext(context);
 vm.runInContext(['questions.js','data.js','extra-cards.js','rarity.js','themes.js','portraits.js','app.js','collection-transfer.js','quiz.js','reveals.js'].map(f=>fs.readFileSync('dist/'+f,'utf8')).join('\n'),context);
 vm.runInContext(`
+if(QUESTIONS.length!==60||QUESTIONS.some(q=>/Geography|Science|Nature|Space|Mathematics/.test(q.category)))throw Error('Off-topic quiz bank');
+if(validateQuiz({ids:['q-1','q-2','q-3','q-4','q-5'],answers:[],token:'legacy',review:false,awarded:false}))throw Error('Old quiz was not replaced');
 if(CARDS.length!==400)throw Error('Unexpected catalog size');
 if(new Set(CARDS.map(c=>c.id)).size!==400)throw Error('Duplicate IDs');
 if(rarities.length!==6||RARITY_WEIGHTS.reduce((a,b)=>a+b,0)!==1)throw Error('Rarity tiers or odds');
