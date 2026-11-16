@@ -1,0 +1,8 @@
+{
+  "name": "political-archive",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A free historical card collection game",
+  "scripts": {"test": "node verify.cjs"},
+  "engines": {"node": ">=20"}
+}
