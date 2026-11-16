@@ -3148,5 +3148,437 @@
     "credit": "https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "attribution": "Vasily Perov · Public domain",
     "license": ""
+  },
+  "pa-353": {
+    "src": "portraits/pa-353.jpg",
+    "title": "Mikhail Kalinin",
+    "article": "https://en.wikipedia.org/wiki/Mikhail_Kalinin",
+    "file": "Михаил_Калинин_(1940).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD_(1940).jpg",
+    "attribution": "Fyodor Kislov / TASS · Public domain",
+    "license": ""
+  },
+  "pa-354": {
+    "src": "portraits/pa-354.jpg",
+    "title": "Vyacheslav Molotov",
+    "article": "https://en.wikipedia.org/wiki/Vyacheslav_Molotov",
+    "file": "V.M._Molotov_TASS_Portrait_Trim_Edit_Crop.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:V.M._Molotov_TASS_Portrait_Trim_Edit_Crop.jpg",
+    "attribution": "G. Weil for TASS · Public domain",
+    "license": ""
+  },
+  "pa-355": {
+    "src": "portraits/pa-355.jpg",
+    "title": "Georgy Malenkov",
+    "article": "https://en.wikipedia.org/wiki/Georgy_Malenkov",
+    "file": "G.M._Malenkov_TASS_Portrait_Trim_Edit.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:G.M._Malenkov_TASS_Portrait_Trim_Edit.jpg",
+    "attribution": "G. Weil for TASS · Public domain",
+    "license": ""
+  },
+  "pa-356": {
+    "src": "portraits/pa-356.jpg",
+    "title": "Yuri Andropov",
+    "article": "https://en.wikipedia.org/wiki/Yuri_Andropov",
+    "file": "Yuri_Andropov_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Yuri_Andropov_(cropped).jpg",
+    "attribution": "TASS · Public domain",
+    "license": ""
+  },
+  "pa-357": {
+    "src": "portraits/pa-357.jpg",
+    "title": "Konstantin Chernenko",
+    "article": "https://en.wikipedia.org/wiki/Konstantin_Chernenko",
+    "file": "Константин_Черненко_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_(cropped).jpg",
+    "attribution": "Associated Press · Public domain",
+    "license": ""
+  },
+  "pa-358": {
+    "src": "portraits/pa-358.jpg",
+    "title": "Sergei Kirov",
+    "article": "https://en.wikipedia.org/wiki/Sergei_Kirov",
+    "file": "Sergey_Kirov_portrait_(Cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sergey_Kirov_portrait_(Cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-359": {
+    "src": "portraits/pa-359.jpg",
+    "title": "Grigory Zinoviev",
+    "article": "https://en.wikipedia.org/wiki/Grigory_Zinoviev",
+    "file": "Grigorii_Zinovieff_1920_(cropped)(b).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Grigorii_Zinovieff_1920_(cropped)(b).jpg",
+    "attribution": "Moisei Nappelbaum · Public domain",
+    "license": ""
+  },
+  "pa-360": {
+    "src": "portraits/pa-360.jpg",
+    "title": "Lev Kamenev",
+    "article": "https://en.wikipedia.org/wiki/Lev_Kamenev",
+    "file": "Lev_Kamenev_1920s_(cropped)(b).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Lev_Kamenev_1920s_(cropped)(b).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-361": {
+    "src": "portraits/pa-361.jpg",
+    "title": "Alexei Kosygin",
+    "article": "https://en.wikipedia.org/wiki/Alexei_Kosygin",
+    "file": "Алексей_Косыгин_(1966)_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9A%D0%BE%D1%81%D1%8B%D0%B3%D0%B8%D0%BD_(1966)_(cropped).jpg",
+    "attribution": "Bror Brandt / Finnish Heritage Agency · CC BY 4.0",
+    "license": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "pa-362": {
+    "src": "portraits/pa-362.jpg",
+    "title": "Mikhail Suslov",
+    "article": "https://en.wikipedia.org/wiki/Mikhail_Suslov",
+    "file": "M.A._Suslov_TASS_Portrait_Trim_Edit_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:M.A._Suslov_TASS_Portrait_Trim_Edit_(cropped).jpg",
+    "attribution": "V. Savostyanov for TASS · Public domain",
+    "license": ""
+  },
+  "pa-363": {
+    "src": "portraits/pa-363.jpg",
+    "title": "Anastas Mikoyan",
+    "article": "https://en.wikipedia.org/wiki/Anastas_Mikoyan",
+    "file": "A.I._Mikoyan_TASS_Portrait_Trim_Edit_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:A.I._Mikoyan_TASS_Portrait_Trim_Edit_(cropped).jpg",
+    "attribution": "G. Weil for TASS · Public domain",
+    "license": ""
+  },
+  "pa-364": {
+    "src": "portraits/pa-364.jpg",
+    "title": "Maxim Litvinov",
+    "article": "https://en.wikipedia.org/wiki/Maxim_Litvinov",
+    "file": "Максим_Литвинов_(1946).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9B%D0%B8%D1%82%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2_(1946).jpg",
+    "attribution": "Михаил Дубнов / ТАСС · Public domain",
+    "license": ""
+  },
+  "pa-365": {
+    "src": "portraits/pa-365.jpg",
+    "title": "Nadezhda Krupskaya",
+    "article": "https://en.wikipedia.org/wiki/Nadezhda_Krupskaya",
+    "file": "Krupskaya_photo.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Krupskaya_photo.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-366": {
+    "src": "portraits/pa-366.jpg",
+    "title": "Felix Dzerzhinsky",
+    "article": "https://en.wikipedia.org/wiki/Felix_Dzerzhinsky",
+    "file": "Feliks_Dzierżyński.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Feliks_Dzier%C5%BCy%C5%84ski.jpg",
+    "attribution": "M.S. Nappelbaum · Public domain",
+    "license": ""
+  },
+  "pa-367": {
+    "src": "portraits/pa-367.jpg",
+    "title": "Yakov Sverdlov",
+    "article": "https://en.wikipedia.org/wiki/Yakov_Sverdlov",
+    "file": "Свердлов_Яков_Михайлович.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2_%D0%AF%D0%BA%D0%BE%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+    "attribution": "Пётр Адольфович Оцуп (1883-1963) · Public domain",
+    "license": ""
+  },
+  "pa-368": {
+    "src": "portraits/pa-368.png",
+    "title": "Anatoly Lunacharsky",
+    "article": "https://en.wikipedia.org/wiki/Anatoly_Lunacharsky",
+    "file": "Anatoliy_Lunacharskiy_1925_Crop.png",
+    "credit": "https://commons.wikimedia.org/wiki/File:Anatoliy_Lunacharskiy_1925_Crop.png",
+    "attribution": "Agence de presse Meurisse · Public domain",
+    "license": ""
+  },
+  "pa-369": {
+    "src": "portraits/pa-369.jpg",
+    "title": "Inessa Armand",
+    "article": "https://en.wikipedia.org/wiki/Inessa_Armand",
+    "file": "Inessa_Armand_crop.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Inessa_Armand_crop.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-370": {
+    "src": "portraits/pa-370.jpg",
+    "title": "Mikhail Frunze",
+    "article": "https://en.wikipedia.org/wiki/Mikhail_Frunze",
+    "file": "Michaił_Frunze_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Michai%C5%82_Frunze_(cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-371": {
+    "src": "portraits/pa-371.jpg",
+    "title": "Georgy Zhukov",
+    "article": "https://en.wikipedia.org/wiki/Georgy_Zhukov",
+    "file": "Георгий_Константинович_Жуков_в_военной_форме_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_(cropped).jpg",
+    "attribution": "не указан · CC BY 4.0",
+    "license": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "pa-372": {
+    "src": "portraits/pa-372.png",
+    "title": "Aleksandra Artyukhina",
+    "article": "https://en.wikipedia.org/wiki/Aleksandra_Artyukhina",
+    "file": "Александра_Васильевна_Артюхина.png",
+    "credit": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_%D0%90%D1%80%D1%82%D1%8E%D1%85%D0%B8%D0%BD%D0%B0.png",
+    "attribution": "AnonymousUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-373": {
+    "src": "portraits/pa-373.jpg",
+    "title": "Enver Hoxha",
+    "article": "https://en.wikipedia.org/wiki/Enver_Hoxha",
+    "file": "Enver_Hoxha_portrait_(colour_correction).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Enver_Hoxha_portrait_(colour_correction).jpg",
+    "attribution": "Petrit Kumi · Public domain",
+    "license": ""
+  },
+  "pa-374": {
+    "src": "portraits/pa-374.png",
+    "title": "Ernst Thälmann",
+    "article": "https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann",
+    "file": "Présidence_du_Reich_Thalmann_Alt_Crop_Edit.png",
+    "credit": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9sidence_du_Reich_Thalmann_Alt_Crop_Edit.png",
+    "attribution": "Agence de presse Meurisse · Public domain",
+    "license": ""
+  },
+  "pa-375": {
+    "src": "portraits/pa-375.jpg",
+    "title": "Erich Honecker",
+    "article": "https://en.wikipedia.org/wiki/Erich_Honecker",
+    "file": "Bundesarchiv_Bild_183-R1220-401,_Erich_Honecker_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R1220-401,_Erich_Honecker_(cropped).jpg",
+    "attribution": "Unknown. Originally uploaded to Wikimedia Commons by Raymond and cropped by Fer1997. Later cropped and reuploaded in present format by Emiya1980 · CC BY-SA 3.0 de",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "pa-376": {
+    "src": "portraits/pa-376.jpg",
+    "title": "Walter Ulbricht",
+    "article": "https://en.wikipedia.org/wiki/Walter_Ulbricht",
+    "file": "Opvolger_van_Pieck,_Walter_Ulbricht,_Bestanddeelnr_911-5926_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Opvolger_van_Pieck,_Walter_Ulbricht,_Bestanddeelnr_911-5926_(cropped).jpg",
+    "attribution": "Anefo · CC0",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "pa-377": {
+    "src": "portraits/pa-377.jpg",
+    "title": "Georgi Dimitrov",
+    "article": "https://en.wikipedia.org/wiki/Georgi_Dimitrov",
+    "file": "Georgiy_Mihaylovich_Dimitrov_TASS_Portrait_Trim_Edit.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Georgiy_Mihaylovich_Dimitrov_TASS_Portrait_Trim_Edit.jpg",
+    "attribution": "TASS · Public domain",
+    "license": ""
+  },
+  "pa-378": {
+    "src": "portraits/pa-378.jpg",
+    "title": "Palmiro Togliatti",
+    "article": "https://en.wikipedia.org/wiki/Palmiro_Togliatti",
+    "file": "Palmiro-Togliatti-00504708.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Palmiro-Togliatti-00504708.jpg",
+    "attribution": "Unknown photographer · Public domain",
+    "license": ""
+  },
+  "pa-379": {
+    "src": "portraits/pa-379.jpg",
+    "title": "Maurice Thorez",
+    "article": "https://en.wikipedia.org/wiki/Maurice_Thorez",
+    "file": "Maurice_Thorez_(1900-1964).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Maurice_Thorez_(1900-1964).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-380": {
+    "src": "portraits/pa-380.jpg",
+    "title": "Kim Jong Un",
+    "article": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+    "file": "Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped_2).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped_2).jpg",
+    "attribution": "Владимир Смирнов / ТАСС · CC BY 4.0",
+    "license": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "pa-381": {
+    "src": "portraits/pa-381.jpg",
+    "title": "José Antonio Primo de Rivera",
+    "article": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Primo_de_Rivera",
+    "file": "FOTOGRAFIA_DE_JOSE_ANTONIO_PRIMO_DE_RIVERA_2.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:FOTOGRAFIA_DE_JOSE_ANTONIO_PRIMO_DE_RIVERA_2.jpg",
+    "attribution": "Unknown authorUnknown author · CC0",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "pa-382": {
+    "src": "portraits/pa-382.jpg",
+    "title": "Corneliu Zelea Codreanu",
+    "article": "https://en.wikipedia.org/wiki/Corneliu_Zelea_Codreanu",
+    "file": "Corneliu_Zelea_Codreanu.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Corneliu_Zelea_Codreanu.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-383": {
+    "src": "portraits/pa-383.jpg",
+    "title": "Italo Balbo",
+    "article": "https://en.wikipedia.org/wiki/Italo_Balbo",
+    "file": "Italio_Balbo_in_the_mountains_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Italio_Balbo_in_the_mountains_(cropped).jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-384": {
+    "src": "portraits/pa-384.png",
+    "title": "Dino Grandi",
+    "article": "https://en.wikipedia.org/wiki/Dino_Grandi",
+    "file": "Conte_Dino_Grandi_(cropped).png",
+    "credit": "https://commons.wikimedia.org/wiki/File:Conte_Dino_Grandi_(cropped).png",
+    "attribution": "Herbert Vandyk · Public domain",
+    "license": ""
+  },
+  "pa-385": {
+    "src": "portraits/pa-385.jpg",
+    "title": "Galeazzo Ciano",
+    "article": "https://en.wikipedia.org/wiki/Galeazzo_Ciano",
+    "file": "Galeazzo_Ciano01.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Galeazzo_Ciano01.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-386": {
+    "src": "portraits/pa-386.jpg",
+    "title": "Roberto Farinacci",
+    "article": "https://en.wikipedia.org/wiki/Roberto_Farinacci",
+    "file": "Roberto_Farinacci_1930.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Roberto_Farinacci_1930.jpg",
+    "attribution": "Ernesto Fazioli · Public domain",
+    "license": ""
+  },
+  "pa-387": {
+    "src": "portraits/pa-387.jpg",
+    "title": "David Ricardo",
+    "article": "https://en.wikipedia.org/wiki/David_Ricardo",
+    "file": "Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg",
+    "attribution": "Thomas Phillips · Public domain",
+    "license": ""
+  },
+  "pa-388": {
+    "src": "portraits/pa-388.jpg",
+    "title": "Thomas Robert Malthus",
+    "article": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+    "file": "Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg",
+    "attribution": "John Linnell · CC BY 4.0",
+    "license": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "pa-389": {
+    "src": "portraits/pa-389.jpg",
+    "title": "Alfred Marshall",
+    "article": "https://en.wikipedia.org/wiki/Alfred_Marshall",
+    "file": "Alfred_Marshall_1891.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Alfred_Marshall_1891.jpg",
+    "attribution": "Elliott and Fry (London W., 55 Baker Street) · Public domain",
+    "license": ""
+  },
+  "pa-390": {
+    "src": "portraits/pa-390.jpg",
+    "title": "Irving Fisher",
+    "article": "https://en.wikipedia.org/wiki/Irving_Fisher",
+    "file": "Irvingfisher.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Irvingfisher.jpg",
+    "attribution": "Bain News Service · Public domain",
+    "license": ""
+  },
+  "pa-391": {
+    "src": "portraits/pa-391.jpg",
+    "title": "Joan Robinson",
+    "article": "https://en.wikipedia.org/wiki/Joan_Robinson",
+    "file": "Joan_Robinson_(1973).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Joan_Robinson_(1973).jpg",
+    "attribution": "W. Punt for Anefo · CC0",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "pa-392": {
+    "src": "portraits/pa-392.jpg",
+    "title": "Paul Samuelson",
+    "article": "https://en.wikipedia.org/wiki/Paul_Samuelson",
+    "file": "Paul_A._Samuelson,_economist,_edited.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Paul_A._Samuelson,_economist,_edited.jpg",
+    "attribution": "Gotfryd, Bernard, photographer · Public domain",
+    "license": ""
+  },
+  "pa-393": {
+    "src": "portraits/pa-393.jpg",
+    "title": "John Kenneth Galbraith",
+    "article": "https://en.wikipedia.org/wiki/John_Kenneth_Galbraith",
+    "file": "John_Kenneth_Galbraith_from_the_back_cover_of_\"The_Affluent_Society\".jpeg",
+    "credit": "https://commons.wikimedia.org/wiki/File:John_Kenneth_Galbraith_from_the_back_cover_of_%22The_Affluent_Society%22.jpeg",
+    "attribution": "Published by Houghton Mifflin Company. Photographer is unknown. · Public domain",
+    "license": ""
+  },
+  "pa-394": {
+    "src": "portraits/pa-394.jpg",
+    "title": "Joseph Stiglitz",
+    "article": "https://en.wikipedia.org/wiki/Joseph_Stiglitz",
+    "file": "Joseph_E._Stiglitz,_2019_(cropped).jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Joseph_E._Stiglitz,_2019_(cropped).jpg",
+    "attribution": "Jérémy Barande · CC BY-SA 2.0",
+    "license": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "pa-395": {
+    "src": "portraits/pa-395.jpg",
+    "title": "Sergei Eisenstein",
+    "article": "https://en.wikipedia.org/wiki/Sergei_Eisenstein",
+    "file": "Sergei_Eisenstein_03.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sergei_Eisenstein_03.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-396": {
+    "src": "portraits/pa-396.jpg",
+    "title": "Dziga Vertov",
+    "article": "https://en.wikipedia.org/wiki/Dziga_Vertov",
+    "file": "David_Kaufman_(Dziga_Vertov)_1913.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:David_Kaufman_(Dziga_Vertov)_1913.jpg",
+    "attribution": "Mikhail Kaufman · Public domain",
+    "license": ""
+  },
+  "pa-397": {
+    "src": "portraits/pa-397.jpg",
+    "title": "Kazimir Malevich",
+    "article": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
+    "file": "Casimir_Malevich_photo.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Casimir_Malevich_photo.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-398": {
+    "src": "portraits/pa-398.jpg",
+    "title": "Vladimir Mayakovsky",
+    "article": "https://en.wikipedia.org/wiki/Vladimir_Mayakovsky",
+    "file": "Mayakovsky_1918.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Mayakovsky_1918.jpg",
+    "attribution": "Unknown authorUnknown author · Public domain",
+    "license": ""
+  },
+  "pa-399": {
+    "src": "portraits/pa-399.jpg",
+    "title": "Alexander Rodchenko",
+    "article": "https://en.wikipedia.org/wiki/Alexander_Rodchenko",
+    "file": "1935-alexander_rodschenko.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:1935-alexander_rodschenko.jpg",
+    "attribution": "Isaak Brodsky · Public domain",
+    "license": ""
+  },
+  "pa-400": {
+    "src": "portraits/pa-400.jpg",
+    "title": "Sergei Prokofiev",
+    "article": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+    "file": "Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
+    "attribution": "Bain News Service, publisher · Public domain",
+    "license": ""
   }
 }
